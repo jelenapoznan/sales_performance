@@ -1,6 +1,7 @@
 # Sales Performance
 
 ## Sales Dashboard
+The dashboard can be found in Tableau Public [here](https://public.tableau.com/views/SalesAnalysis_17255289085590/SalesDashboard?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ### Dashboard Purpose
 The purpose of sales dashboard is to present an overview of the sales metrics and trends in order to analyze year-over-year sales performance and understand sales trends.
