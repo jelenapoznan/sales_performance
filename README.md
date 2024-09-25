@@ -9,48 +9,51 @@ The purpose of sales dashboard is to present an overview of the sales metrics an
 ### Key Requirements
 ***KPI Overview:***
 
-- Display a summary of total sales, profits and quantity for the current year and the previous year.
+- Summary of total sales, profits and quantity for the current year and the previous year.
 
 ***Sales Trends:***
 
--  Present the data for each KPI on a monthly basis for both the current year and the previous year.
--  Identify months with highest and lowest sales and make them easy to recognize.
+-  Presented KPI on a monthly basis for both the current year and the previous year.
+-  Identified months with highest and lowest sales.
 
 ***Product Subcategory Comparison***
-– Compare sales performance by different product subcategories for the current year and the previous year.
-– Include a comparison of sales with profit.
+
+- Compared sales performance by different product subcategories for the current year and the previous year.
+- Included a comparison of sales with profit.
 
 ***Weekly Trends for Sales & Profit***
-- Present weekly sales and profit data for the current year.
-- Display the average weekly values.
-- Highlight weeks that are above and below the average to draw attention to sales & profit performance.
+
+- Presented weekly sales and profit data for the current year.
+- Displayed the average weekly values.
+- Highlighted weeks that are above and below the average to draw attention to sales & profit performance.
 
 <img width="812" alt="image" src="https://github.com/jelenapoznan/sales_performance/blob/main/Sales%20Dashboard.png">
 
 ## Customer Dashboard
 
 ### Dashboard Purpose
+
 The customer dashboard aims to provide an overview of customer data, trends and behaviors. It will help marketing teams and management to understand customer segments and improve customer satisfaction.
 
 ### Key Requirements
 
 ***KPI Overview:***
 
-Display a summary of total number of customers , total sales per customer and total number of orders for the current year and the previous year.
+- Summary of total number of customers , total sales per customer and total number of orders for the current year and the previous year.
 
 ***Customer Trends:***
 
- - Present the data for each KPI on a monthly basis for both the current year and the previous year.
+ - Presented the data for each KPI on a monthly basis for both the current year and the previous year.
 
- - Identify months with highest and lowest sales and make them easy to recognize.
+ - Identified months with highest and lowest sales.
 
 ***Customer Distribution by Number of Orders:***
 
-Represent the distribution of customers based on the number of orders they have placed to provide insights into customer behavior, loyalty and engagement.
+Distribution of customers based on the number of orders they have placed to provide insights into customer behavior, loyalty and engagement.
 
 Top 10 Customers By Profit
- - Present the top 10 customers who have generated the highest profits for the company.
+ - Presented the top 10 customers who have generated the highest profits for the company.
 
- - Show additional information like rank, number of orders, current sales, current profit and the last order date.
+ - Showed additional information like rank, number of orders, current sales, current profit and the last order date.
 
 <img width="812" alt="image" src="https://github.com/jelenapoznan/sales_performance/blob/main/Customers%20Dashboard.png">
