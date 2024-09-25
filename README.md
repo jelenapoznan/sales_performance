@@ -25,6 +25,7 @@ The purpose of sales dashboard is to present an overview of the sales metrics an
 - Display the average weekly values.
 - Highlight weeks that are above and below the average to draw attention to sales & profit performance.
 
+<img width="812" alt="image" src="https://github.com/jelenapoznan/sales_performance/blob/main/Sales%20Dashboard.png">
 
 ## Customer Dashboard
 
@@ -51,3 +52,5 @@ Top 10 Customers By Profit
  - Present the top 10 customers who have generated the highest profits for the company.
 
  - Show additional information like rank, number of orders, current sales, current profit and the last order date.
+
+<img width="812" alt="image" src="https://github.com/jelenapoznan/sales_performance/blob/main/Customers%20Dashboard.png">
